@@ -1,0 +1,40 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding-top: 0;
+    
+}
+h1{
+    font-size: 40px;
+}
+.robot{
+    font-family: 'Press Start 2P', cursive;
+    color: darkred;
+}
+.automated{
+    color: goldenrod;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+    padding-top: 5px;
+}
+.half-width img{
+    width: 92%;
+    padding-top: 5px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: rgb(247, 243, 228);
+    font-weight: bold;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}

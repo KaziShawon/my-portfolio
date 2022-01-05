@@ -65,3 +65,13 @@ h2{
     box-shadow: 10px 10px 30px grey;
 
 }
+#web-dev-experience{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+#full-stack-experience{
+    border-left: 7px solid;
+    border-image: linear-gradient(darkred, tomato);
+    border-image-slice: 1;
+}

@@ -75,3 +75,6 @@ h2{
     border-image: linear-gradient(darkred, tomato);
     border-image-slice: 1;
 }
+footer p {
+    text-align: center;
+}
